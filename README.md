@@ -3,18 +3,22 @@ EN tutorial how to use:
 
 1 - download Python there - https://www.python.org/downloads
 
-2 - 2 clicks for file Python "script.py"
+2 - unpack the archive
 
-3 - wait for download mudules
+3 - 2 clicks for file Python "script.py"
 
-4 - use this and relax
+4 - wait for download mudules
+
+5 - use this and relax
 
 RU Инструкция по использованию:
 
 1 - Скачайте Python здесь - https://www.python.org/downloads
 
-2 - Два клика для загрузки файла Python "script.py"
+2 - распакуйте архив
 
-3 - Дождитесь загрузки модулей
+3 - Два клика для загрузки файла Python "script.py"
 
-4 - Используйте это и расслабьтесь
+4 - Дождитесь загрузки модулей
+
+5 - Используйте это и расслабьтесь
